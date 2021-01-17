@@ -15,7 +15,6 @@ those rules.
 1) There are many modes and levels in this game. We are only concerned with “Endless”
 game mode denoted with an infinity symbol in the actual game's homescreen in which
 you are required to design the “Classic” gameplay alone.
-
 2) The player has to use a single input to keep the ball afloat as well as move upward. A
 constant amount of distance is travelled each time the input is given.
 3) The ball will fall if no input is given, as if it is moving against gravity.
@@ -36,7 +35,9 @@ b) Store the exact position of the ball
 c) Store the position of the obstacles and their orientation
 10) A player must be able to save as well as load any saved game.
 11) Game must allow multiple save/load games.
+
 Basic Requirements:
+
 1) Main page:
 a) New game button
 b) Resume game button
